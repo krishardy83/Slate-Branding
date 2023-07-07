@@ -771,6 +771,71 @@
             <div id="div_a954995e-3a6d-41d5-8f22-a7746ee0ec2f">
             </div>
           </footer>
+          
+<!-- The fix -->
+
+<!--
+          <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery.flexslider-min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/scripts_top.js">
+          </script>
+        
+          <script src="https://messiah.edu/site/custom_scripts/lity/lity.js">
+          </script>
+-->
+
+
+
+          <script type="text/javascript" src="https://messiah.edu/site/custom_scripts/js/jquery.responsiveHelper.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/custom_scripts/js/jquery.stickyScrollBlock.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/custom_scripts/js/jquery.touchNav.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/custom_scripts/js/jquery.openClose.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery-ui-1.10.3.tabs.min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery.scrollTo-1.4.3.1-min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery.countdown.min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery.stickytableheaders.min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery-ui-1.10.4.tooltip.min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery.counter-min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/appear-min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/clear-inputs.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery.jplayer.min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/waypoints.min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/custom-form.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery.mmenu.min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/waypoints-sticky.min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery.ui.accordion.min.js">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/scripts.js?20230512082958">
+          </script>
+          <script type="text/javascript" src="https://messiah.edu/site/javascript/enquire.js">
+          </script>
+          <script src="https://www.messiah.edu/site/javascript/almond.min.js">
+          </script>
+
+
+
+
+<!-- Original 
+
           <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous">
           </script>
           <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery.flexslider-min.js">
@@ -787,7 +852,7 @@
           </script>
           <script type="text/javascript" src="https://messiah.edu/site/custom_scripts/js/jquery.openClose.js">
           </script>
-          <!--<script src="https://www.messiah.edu/widgets/js/widget.js?1684598032"></script>-->
+
           <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery-ui-1.10.3.tabs.min.js">
           </script>
           <script type="text/javascript" src="https://messiah.edu/site/javascript/jquery.scrollTo-1.4.3.1-min.js">
@@ -1131,6 +1196,8 @@
           </script>
           <script src="https://www.messiah.edu/site/javascript/util.min.js">
           </script>
+
+        -->
         </div>
       </body>
     </html>
