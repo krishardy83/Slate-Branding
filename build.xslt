@@ -37,7 +37,7 @@
         <!-- End Google Tag Manager (noscript) -->
         <a href="#content" class="btn-tertiary fixed left-1/2 top-0 -translate-x-1/2 z-50 -translate-y-full focus:translate-y-0">Skip to content</a>
         <div data-menu="data-menu" class="sticky -top-px before:absolute before:top-0 before:h-2 lg:before:h-4 before:w-full before:bg-gradient-to-r before:from-primary-600 lg:data-[scrolling='true']:bg-white before:to-secondary-600 pt-6 lg:pt-4 pb-2 lg:pb-6 z-30 group border-b border-transparent lg:data-[scrolling='true']:border-gray-300 lg:data-[compress='true']:-translate-y-12 transition-all">
-          <header class="mx-auto max-w-6xl px-4">
+            <header class="mx-auto max-w-6xl px-4">
             <nav class="flex items-end flex-wrap" data-analytics="navigation">
               <a href="/" aria-label="home page" class="slate-hidden lg:block mr-auto mt-4 group-data-[compress='true']:opacity-0 transition-opacity text-primary-800">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 227 61.29" xml:space="preserve" width="220" height="60" role="img" class="max-w-40 lg:max-w-full" style="color: #273d5e;">
@@ -56,37 +56,37 @@
                     <div aria-labelledby="group-button-info-for" aria-hidden="true" id="group-info-for" class="opacity-0 slate-hidden absolute right-0 w-72 bg-primary-800 text-white transition-opacity duration-300 p-8 z-10 before:absolute before:bottom-0 before:left-0 before:h-2 before:w-full before:bg-gradient-to-r before:from-primary-600 before:to-secondary-600" role="region">
                       <ul class="flex flex-col">
                         <li>
-                          <a href="https://www.messiah.edu/future-students" class="link my-2 block"> Future Students </a>
+                          <a href="https://www.messiah.edu/future-students/index.html" class="link my-2 block"> Future Students </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/current-students" class="link my-2 block"> Current Students </a>
+                          <a href="https://www.messiah.edu/current-students/index.html" class="link my-2 block"> Current Students </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/visitors-neighbors" class="link my-2 block">
+                          <a href="ttps://www.messiah.edu/visitors-neighbors/index.html" class="link my-2 block">
                         Visitors &amp; Neighbors
                       </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/alumni-parents" class="link my-2 block">
+                          <a href="https://www.messiah.edu/alumni-and-parents/index.html" class="link my-2 block">
                         Alumni &amp; Parents
                       </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/faculty-staff" class="link my-2 block"> Faculty &amp; Staff </a>
+                          <a href="https://www.messiah.edu/faculty-staff/index.html" class="link my-2 block"> Faculty &amp; Staff </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/admision" class="link my-2 block"> Espa&#xF1;ol </a>
+                          <a href="https://www.messiah.edu/admisiones-de-pregrado/index.html" class="link my-2 block"> Espa&#xF1;ol </a>
                         </li>
                         <li role="separator" class="w-full h-px bg-primary-500 my-4">
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/applytoday" class="btn-quaternary w-full mb-2"> Apply </a>
+                          <a href="https://www.messiah.edu/applytoday/index.html" class="btn-quaternary w-full mb-2"> Apply </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/visit" class="btn-quaternary w-full mb-2"> Visit </a>
+                          <a href="https://www.messiah.edu/visit/index.html" class="btn-quaternary w-full mb-2"> Visit </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/homepage/1553/request_information" class="btn-quaternary w-full mb-2">
+                          <a href="https://www.messiah.edu/request-info/index.html" class="btn-quaternary w-full mb-2">
                         Request Info
                       </a>
                         </li>
@@ -101,29 +101,29 @@
                     <div aria-labelledby="group-button-quick-links" aria-hidden="true" id="group-quick-links" class="opacity-0 slate-hidden absolute right-0 w-72 bg-primary-800 text-white transition-opacity duration-300 p-8 z-10 before:absolute before:bottom-0 before:left-0 before:h-2 before:w-full before:bg-gradient-to-r before:from-primary-600 before:to-secondary-600" role="region">
                       <ul class="flex flex-col">
                         <li>
-                          <a href="https://www.messiah.edu/campus_directory" class="link my-2 block"> Campus Directory </a>
+                          <a href="https://www.messiah.edu/offices/index.html" class="link my-2 block"> Campus Directory </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/news" class="link my-2 block"> News </a>
+                          <a href="https://www.messiah.edu/news/index.html" class="link my-2 block"> News </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/events" class="link my-2 block"> Events </a>
+                          <a href="https://www.messiah.edu/events/index.html" class="link my-2 block"> Events </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/homepage/3099/contact_us" class="link my-2 block">
+                          <a href="https://www.messiah.edu/contact-us/index.html" class="link my-2 block">
                         Contact Us
                       </a>
                         </li>
                         <li role="separator" class="w-full h-px bg-primary-500 my-4">
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/applytoday" class="btn-quaternary w-full mb-2"> Apply </a>
+                          <a href="https://www.messiah.edu/applytoday/index.html" class="btn-quaternary w-full mb-2"> Apply </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/visit" class="btn-quaternary w-full mb-2"> Visit </a>
+                          <a href="https://www.messiah.edu/visit/index.html" class="btn-quaternary w-full mb-2"> Visit </a>
                         </li>
                         <li>
-                          <a href="https://www.messiah.edu/homepage/1553/request_information" class="btn-quaternary w-full mb-2">
+                          <a href="https://www.messiah.edu/request-info/index.html" class="btn-quaternary w-full mb-2">
                         Request Info
                       </a>
                         </li>
@@ -156,48 +156,48 @@
                           <p class="mb-4 text-2xl font-bold text-primary-800">
                         A passion for Christian community and our shared faith make us who we are.
                       </p>
-                          <a href="https://www.messiah.edu/about" class="btn-secondary"> Start here </a>
+                          <a href="https://www.messiah.edu/about/index.html" class="btn-secondary"> Start here </a>
                         </div>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/about" class="link"> Overview </a>
+                            <a href="https://www.messiah.edu/about/index.html" class="link"> Overview </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20000/about#overview" class="link"> Who we are </a>
+                            <a href="https://www.messiah.edu/about#start" class="link"> Who we are </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20000/about#campus" class="link"> Our campus </a>
+                            <a href="https://www.messiah.edu/about#our-campus" class="link"> Our campus </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20000/about#faith" class="link"> Faith community </a>
+                            <a href="https://www.messiah.edu/about#faith-community" class="link"> Faith community </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20000/about#anew" class="link"> See anew </a>
+                            <a href="https://www.messiah.edu/about#see-anew" class="link"> See anew </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20000/about#history" class="link"> Our history </a>
+                            <a href="https://www.messiah.edu/about#our-history" class="link"> Our history </a>
                           </li>
                         </ul>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/info/20020/recognitions" class="link"> Recognitions </a>
+                            <a href="https://www.messiah.edu/gn-about/accreditation/index.html" class="link"> Recognitions </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20002/college_profile" class="link"> At a glance </a>
+                            <a href="https://www.messiah.edu/gn-about/at-a-glance/index.html" class="link"> At a glance </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20015/news_and_events" class="link"> News and events </a>
+                            <a href="https://www.messiah.edu/news/index.html" class="link"> News and events </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20012/accreditation" class="link"> Accreditation </a>
+                            <a href="https://www.messiah.edu/gn-about/accreditation/index.html" class="link"> Accreditation </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20016/college_leadership" class="link">
+                            <a href="https://www.messiah.edu/gn-about/university-leadership/index.html" class="link">
                           University leadership
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20000/about/1990/student_consumer_info" class="link">
+                            <a href="https://www.messiah.edu/gn-about/student-consumer-information/index.html" class="link">
                           Student consumer info
                         </a>
                           </li>
@@ -220,58 +220,58 @@
                         </div>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/academics?type=ug" class="link text-primary-800 font-title uppercase font-bold text-xl">
+                            <a href="https://www.messiah.edu/academics/undergraduate/index.html" class="link text-primary-800 font-title uppercase font-bold text-xl">
                           Undergraduate
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/majors-minors-programs" class="link"> Majors and minors </a>
+                            <a href="https://www.messiah.edu/majors-minors-programs/index.html" class="link"> Majors and minors </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/academics?type=ug#accelerated-options" class="link">
+                            <a href="https://www.messiah.edu/accelerated/index.html" class="link">
                           Accelerated options
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/academics?type=ug#opportunities" class="link">
+                            <a href="https://www.messiah.edu/academics/undergraduate#academic-opportunities" class="link">
                           Academics opportunities
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/academics?type=ug#academic-support" class="link">
+                            <a href="https://www.messiah.edu/academic-support/index.html" class="link">
                           Academic support
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/career-outcomes" class="link"> Careers and outcomes </a>
+                            <a href="https://www.messiah.edu/careers/index.html" class="link"> Careers and outcomes </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/study-abroad" class="link"> Study abroad </a>
+                            <a href="https://www.messiah.edu/study-abroad/index.html" class="link"> Study abroad </a>
                           </li>
                         </ul>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/academics?type=grad" class="link text-primary-800 font-title uppercase font-bold text-xl">
+                            <a href="https://www.messiah.edu/academics/graduate/index.html" class="link text-primary-800 font-title uppercase font-bold text-xl">
                           Graduate
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/academics?type=grad#our-programs" class="link">
+                            <a href="https://www.messiah.edu/academics/graduate#our-programs" class="link">
                           Degrees and certificates
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/academics?type=grad#why-messiah" class="link">
+                            <a href="https://www.messiah.edu/academics/graduate#why-messiah" class="link">
                           Academic distinctives
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/academics?type=grad#graduate-school" class="link">
+                            <a href="https://www.messiah.edu/school-gps/index.html" class="link">
                           School of Graduate and Professional Studies
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/grad-careers" class="link"> Career development </a>
+                            <a href="https://www.messiah.edu/careers-and-internships-for-graduate-students/index.html" class="link"> Career development </a>
                           </li>
                         </ul>
                         <ul class="flex-1 space-y-1 text-sm">
@@ -281,25 +281,25 @@
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/21164/library" class="link"> Library </a>
+                            <a href="https://www.messiah.edu/library/index.html" class="link"> Library </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/23055/career_and_professional_development_center" class="link">
+                            <a href="https://www.messiah.edu/career/index.html" class="link">
                           Career &amp; Professional Development Center
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20029/schools_and_departments" class="link">
+                            <a href="https://www.messiah.edu/schools-and-departments/index.html" class="link">
                           Schools and departments
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/20098/college_honors_program" class="link">
+                            <a href="https://www.messiah.edu/honors-program/index.html" class="link">
                           University Honors Program
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/BridgeCenter" class="link">
+                            <a href="https://www.messiah.edu/the-bridge-center-for-continuing-education/" class="link">
                           The Bridge Center for Continuing Education
                         </a>
                           </li>
@@ -321,65 +321,65 @@
                         </div>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/info/21083/undergraduate_admissions" class="link text-primary-800 font-title uppercase font-bold text-xl">
+                            <a href="https://www.messiah.edu/undergraduate-admissions/index.html" class="link text-primary-800 font-title uppercase font-bold text-xl">
                           Undergraduate
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/applytoday" class="link"> Apply </a>
+                            <a href="https://www.messiah.edu/applytoday/index.html" class="link"> Apply </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/request-info" class="link"> Request information </a>
+                            <a href="https://www.messiah.edu/undergraduate-admissions/request-more-information/request-information.html" class="link"> Request information </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/21344/tuition_and_aid" class="link"> Cost of tuition </a>
+                            <a href="https://www.messiah.edu/ug-tuition-and-aid/index.html" class="link"> Cost of tuition </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/21379/types_of_aid" class="link">
+                            <a href="https://www.messiah.edu/fin-aid/index.html" class="link">
                           Scholarships and grants
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/21356/meet_your_counselor" class="link">
+                            <a href="https://www.messiah.edu/undergraduate-admissions/future-students/meet-your-counselor.html" class="link">
                           Meet your counselor
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/21083/undergraduate_admissions" class="link">
+                            <a href="https://www.messiah.edu/undergraduate-admissions#process" class="link">
                           Admissions process
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/21342/accepted_students" class="link">
+                            <a href="https://www.messiah.edu/accepted-students/index.html" class="link">
                           Accepted students
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/admision" class="link"> Espa&#xF1;ol </a>
+                            <a href="https://www.messiah.edu/admisiones-de-pregrado/index.html" class="link"> Espa&#xF1;ol </a>
                           </li>
                         </ul>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/info/21084/graduate_admissions" class="link text-primary-800 font-title uppercase font-bold text-xl">
+                            <a href="https://www.messiah.edu/grad-admissions/index.html" class="link text-primary-800 font-title uppercase font-bold text-xl">
                           Graduate
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/21329/apply" class="link"> Apply </a>
+                            <a href="https://mcadmissions.messiah.edu/portal/grad-apply" class="link"> Apply </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/grad-rfi" class="link"> Request information </a>
+                            <a href="https://www.messiah.edu/grad-admissions/grad-rfi/index.html" class="link"> Request information </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/22863/cost_and_aid" class="link"> Tuition and aid </a>
+                            <a href="https://www.messiah.edu/school-gps/cost-and-aid/index.html" class="link"> Tuition and aid </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/grad-accepted" class="link"> Accepted students </a>
+                            <a href="https://www.messiah.edu/grad-admissions/youre-accepted/index.html" class="link"> Accepted students </a>
                           </li>
                         </ul>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/visit" class="link text-primary-800 font-title uppercase font-bold text-xl">
+                            <a href="https://www.messiah.edu/visit/index.html" class="link text-primary-800 font-title uppercase font-bold text-xl">
                           Visit campus
                         </a>
                           </li>
@@ -387,13 +387,13 @@
                             <a href="https://www.messiah.edu/visit#event-types" class="link"> Browse by event type </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/visit#calendar" class="link"> View upcoming events </a>
+                            <a href="https://mcadmissions.messiah.edu/portal/visit-calendar" class="link"> View upcoming events </a>
                           </li>
                           <li>
                             <a href="https://tour.messiah.edu/" class="link"> View virtual tour </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/info/21343/visit_campus/13/directions" class="link">
+                            <a href="https://www.messiah.edu/undergraduate-admissions/pages/directions1/directions.html" class="link">
                           Directions
                         </a>
                           </li>
@@ -416,7 +416,7 @@
                         Athletics serve as an exciting piece of our community and provide a common bond for school
                         spirit.
                       </p>
-                          <a href="https://www.messiah.edu/athletics-and-recreation" class="btn-secondary"> Start here </a>
+                          <a href="https://www.messiah.edu/athletics-and-recreation/index.html" class="btn-secondary"> Start here </a>
                         </div>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
@@ -443,23 +443,26 @@
                         </ul>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/athletics-and-recreation" class="link text-primary-800 font-title uppercase font-bold text-xl">
+                            <a href="https://www.messiah.edu/athletics-and-recreation/index.html" class="link text-primary-800 font-title uppercase font-bold text-xl">
                           Sports &amp; Recreation
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/athletics-and-recreation#sports" class="link">
+                            <a href="https://www.messiah.edu/athletics-and-recreation#start" class="link">
                           Club &amp; rec sports
                         </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/athletics-and-recreation#fitness" class="link">
+                            <a href="https://www.messiah.edu/athletics-and-recreation#physical-fitness" class="link">
                           Physical fitness
                         </a>
                           </li>
                           <li>
                             <a href="https://www.messiah.edu/athletics-and-recreation#game-day" class="link"> Game day </a>
                           </li>
+                          <li>
+                              <a href="https://www.messiah.edu/athletics-and-recreation#sports-camps" class="link">Sports camps</a>
+                          </li>                          
                           <li>
                             <a href="https://www.messiah.edu/athletics-and-recreation#sports-ministry" class="link">
                           Sports ministry
@@ -481,27 +484,27 @@
                         Our motto, 'Christ Preeminent', shapes every experience you'll have as a student at
                         Messiah.
                       </p>
-                          <a href="https://www.messiah.edu/faithandservice" class="btn-secondary"> Start here </a>
+                          <a href="https://www.messiah.edu/faith-and-service/index.html" class="btn-secondary"> Start here </a>
                         </div>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/faithandservice" class="link"> Overview </a>
+                            <a href="https://www.messiah.edu/faith-and-service/index.html" class="link"> Overview </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/faithandservice#grow" class="link"> Grow your faith </a>
+                            <a href="https://www.messiah.edu/faith-and-service#grow-your-faith" class="link"> Grow your faith </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/faithandservice#service" class="link">
+                            <a href="https://www.messiah.edu/faith-and-service#service-opportunities" class="link">
                           Service opportunities
                         </a>
                           </li>
                         </ul>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/faithandservice#church" class="link"> Find a church </a>
+                            <a href="https://www.messiah.edu/faith-and-service#find-your-church" class="link"> Find a church </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/faithandservice#classroom" class="link">
+                            <a href="https://www.messiah.edu/faith-and-service#faith-in-the-classroom" class="link">
                           Faith in the classroom
                         </a>
                           </li>
@@ -520,23 +523,23 @@
                           <p class="mb-4 text-2xl font-bold text-primary-800">
                         Messiah&#x2019;s campus is an active, busy place where you&#x2019;ll have fun and make lifelong friendships.
                       </p>
-                          <a href="https://www.messiah.edu/studentlife" class="btn-secondary"> Start here </a>
+                          <a href="https://www.messiah.edu/student-life/index.html" class="btn-secondary"> Start here </a>
                         </div>
                         <ul class="flex-1 space-y-1 text-sm">
                           <li>
-                            <a href="https://www.messiah.edu/studentlife" class="link"> Overview </a>
+                            <a href="https://www.messiah.edu/student-life/index.html" class="link"> Overview </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/student-life#student-life" class="link"> Life on campus </a>
+                            <a href="https://www.messiah.edu/student-life#start" class="link"> Life on campus </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/student-life#to-do" class="link"> Things to do </a>
+                            <a href="https://www.messiah.edu/student-life#things-to-do" class="link"> Things to do </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/student-life#home" class="link"> Your new home </a>
+                            <a href="https://www.messiah.edu/student-life#welcome-home" class="link"> Your new home </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/student-life#res-life" class="link"> Living on campus </a>
+                            <a href="https://www.messiah.edu/student-life#resident-life-dining" class="link"> Living on campus </a>
                           </li>
                         </ul>
                         <ul class="flex-1 space-y-1 text-sm">
@@ -544,7 +547,7 @@
                             <a href="https://www.messiah.edu/student-life#faq" class="link"> Frequently asked questions </a>
                           </li>
                           <li>
-                            <a href="https://www.messiah.edu/student-life#dining" class="link"> Dining facilities </a>
+                            <a href="https://www.messiah.edu/student-life#hungry" class="link"> Dining facilities </a>
                           </li>
                           <li>
                             <a href="https://www.messiah.edu/student-life#diversity" class="link"> A diverse community </a>
@@ -622,44 +625,44 @@
                 <div id="mobile-group-about" class="mt-4 overflow-hidden h-[--height] transition-all duration-300" role="region" aria-labelledby="mobile-group-button-about" hidden="hidden">
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/about" class="link"> Overview </a>
+                      <a href="https://www.messiah.edu/about/index.html" class="link"> Overview </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20000/about#overview" class="link"> Who we are </a>
+                      <a href="https://www.messiah.edu/about#start" class="link"> Who we are </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20000/about#campus" class="link"> Our campus </a>
+                      <a href="https://www.messiah.edu/about#our-campus" class="link"> Our campus </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20000/about#faith" class="link"> Faith community </a>
+                      <a href="https://www.messiah.edu/about#faith-community" class="link"> Faith community </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20000/about#anew" class="link"> See anew </a>
+                      <a href="https://www.messiah.edu/about#see-anew" class="link"> See anew </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20000/about#history" class="link"> Our history </a>
+                      <a href="https://www.messiah.edu/about#our-history" class="link"> Our history </a>
                     </li>
                   </ul>
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/info/20020/recognitions" class="link"> Recognitions </a>
+                      <a href="https://www.messiah.edu/rankings/index.html" class="link"> Recognitions </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20002/college_profile" class="link"> At a glance </a>
+                      <a href="https://www.messiah.edu/gn-about/at-a-glance/index.html" class="link"> At a glance </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20015/news_and_events" class="link"> News and events </a>
+                      <a href="https://www.messiah.edu/news/index.html" class="link"> News and events </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20012/accreditation" class="link"> Accreditation </a>
+                      <a href="https://www.messiah.edu/gn-about/accreditation/index.html" class="link"> Accreditation </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20016/college_leadership" class="link">
+                      <a href="https://www.messiah.edu/gn-about/university-leadership/index.html" class="link">
                     University leadership
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20000/about/1990/student_consumer_info" class="link">
+                      <a href="https://www.messiah.edu/gn-about/student-consumer-information/index.html" class="link">
                     Student consumer info
                   </a>
                     </li>
@@ -674,58 +677,58 @@
                 <div id="mobile-group-academics" class="mt-4 overflow-hidden h-[--height] transition-all duration-300" role="region" aria-labelledby="mobile-group-button-academics" hidden="hidden">
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/academics?type=ug" class="link font-title uppercase font-bold text-xl block mt-4">
+                      <a href="https://www.messiah.edu/academics/undergraduate/index.html" class="link font-title uppercase font-bold text-xl block mt-4">
                     Undergraduate
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/majors-minors-programs" class="link"> Majors and minors </a>
+                      <a href="https://www.messiah.edu/majors-minors-programs/index.html" class="link"> Majors and minors </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/academics?type=ug#accelerated-options" class="link">
+                      <a href="https://www.messiah.edu/accelerated/index.html" class="link">
                     Accelerated options
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/academics?type=ug#opportunities" class="link">
+                      <a href="https://www.messiah.edu/academics/undergraduate#academic-opportunities" class="link">
                     Academics opportunities
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/academics?type=ug#academic-support" class="link">
+                      <a href="https://www.messiah.edu/academic-support/index.html" class="link">
                     Academic support
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/career-outcomes" class="link"> Careers and outcomes </a>
+                      <a href="https://www.messiah.edu/careers/index.html" class="link"> Careers and outcomes </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/study-abroad" class="link"> Study abroad </a>
+                      <a href="https://www.messiah.edu/study-abroad/index.html" class="link"> Study abroad </a>
                     </li>
                   </ul>
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/academics?type=grad" class="link font-title uppercase font-bold text-xl block mt-4">
+                      <a href="https://www.messiah.edu/academics/graduate/index.html" class="link font-title uppercase font-bold text-xl block mt-4">
                     Graduate
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/academics?type=grad#our-programs" class="link">
+                      <a href="https://www.messiah.edu/academics/graduate#our-programs" class="link">
                     Degrees and certificates
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/academics?type=grad#why-messiah" class="link">
+                      <a href="https://www.messiah.edu/academics/graduate#why-messiah" class="link">
                     Academic distinctives
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/academics?type=grad#graduate-school" class="link">
+                      <a href="https://www.messiah.edu/school-gps/index.html" class="link">
                     School of Graduate and Professional Studies
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/grad-careers" class="link"> Career development </a>
+                      <a href="https://www.messiah.edu/careers-and-internships-for-graduate-students/index.html" class="link"> Career development </a>
                     </li>
                   </ul>
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
@@ -733,25 +736,25 @@
                       <a href="/" class="link font-title uppercase font-bold text-xl block mt-4"> Quicklinks </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/21164/library" class="link"> Library </a>
+                      <a href="https://www.messiah.edu/library/index.html" class="link"> Library </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/23055/career_and_professional_development_center" class="link">
+                      <a href="https://www.messiah.edu/career/index.html" class="link">
                     Career &amp; Professional Development Center
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20029/schools_and_departments" class="link">
+                      <a href="https://www.messiah.edu/schools-and-departments/index.html" class="link">
                     Schools and departments
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/20098/college_honors_program" class="link">
+                      <a href="https://www.messiah.edu/honors-program/index.html" class="link">
                     University Honors Program
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/BridgeCenter" class="link">
+                      <a href="https://www.messiah.edu/the-bridge-center-for-continuing-education/" class="link">
                     The Bridge Center for Continuing Education
                   </a>
                     </li>
@@ -766,61 +769,61 @@
                 <div id="mobile-group-admissions" class="mt-4 overflow-hidden h-[--height] transition-all duration-300" role="region" aria-labelledby="mobile-group-button-admissions" hidden="hidden">
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/info/21083/undergraduate_admissions" class="link font-title uppercase font-bold text-xl block mt-4">
+                      <a href="https://www.messiah.edu/undergraduate-admissions/index.html" class="link font-title uppercase font-bold text-xl block mt-4">
                     Undergraduate
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/applytoday" class="link"> Apply </a>
+                      <a href="https://www.messiah.edu/applytoday/index.html" class="link"> Apply </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/request-info" class="link"> Request information </a>
+                      <a href="https://www.messiah.edu/undergraduate-admissions/request-more-information/request-information.html" class="link"> Request information </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/21344/tuition_and_aid" class="link"> Cost of tuition </a>
+                      <a href="https://www.messiah.edu/ug-tuition-and-aid/index.html" class="link"> Cost of tuition </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/21379/types_of_aid" class="link"> Scholarships and grants </a>
+                      <a href="https://www.messiah.edu/fin-aid/index.html" class="link"> Scholarships and grants </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/21356/meet_your_counselor" class="link">
+                      <a href="https://www.messiah.edu/undergraduate-admissions/future-students/meet-your-counselor.html" class="link">
                     Meet your counselor
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/21083/undergraduate_admissions" class="link">
+                      <a href="https://www.messiah.edu/undergraduate-admissions#process" class="link">
                     Admissions process
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/21342/accepted_students" class="link"> Accepted students </a>
+                      <a href="https://www.messiah.edu/accepted-students/index.html" class="link"> Accepted students </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/admision" class="link"> Espa&#xF1;ol </a>
+                      <a href="https://www.messiah.edu/admisiones-de-pregrado/index.html" class="link"> Espa&#xF1;ol </a>
                     </li>
                   </ul>
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/info/21084/graduate_admissions" class="link font-title uppercase font-bold text-xl block mt-4">
+                      <a href="https://www.messiah.edu/grad-admissions/index.html" class="link font-title uppercase font-bold text-xl block mt-4">
                     Graduate
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/21329/apply" class="link"> Apply </a>
+                      <a href="https://mcadmissions.messiah.edu/portal/grad-apply" class="link"> Apply </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/grad-rfi" class="link"> Request information </a>
+                      <a href="https://www.messiah.edu/grad-admissions/grad-rfi/index.html" class="link"> Request information </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/22863/cost_and_aid" class="link"> Tuition and aid </a>
+                      <a href="https://www.messiah.edu/school-gps/cost-and-aid/index.html" class="link"> Tuition and aid </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/grad-accepted" class="link"> Accepted students </a>
+                      <a href="https://www.messiah.edu/grad-admissions/youre-accepted/index.html" class="link"> Accepted students </a>
                     </li>
                   </ul>
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/visit" class="link font-title uppercase font-bold text-xl block mt-4">
+                      <a href="https://www.messiah.edu/visit/index.html" class="link font-title uppercase font-bold text-xl block mt-4">
                     Visit campus
                   </a>
                     </li>
@@ -828,13 +831,13 @@
                       <a href="https://www.messiah.edu/visit#event-types" class="link"> Browse by event type </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/visit#calendar" class="link"> View upcoming events </a>
+                      <a href="https://mcadmissions.messiah.edu/portal/visit-calendar" class="link"> View upcoming events </a>
                     </li>
                     <li>
                       <a href="https://tour.messiah.edu/" class="link"> View virtual tour </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/info/21343/visit_campus/13/directions" class="link"> Directions </a>
+                      <a href="https://www.messiah.edu/undergraduate-admissions/pages/directions1/directions.html" class="link"> Directions </a>
                     </li>
                     <li>
                       <a href="https://tour.messiah.edu/campus-map" class="link"> Campus Map </a>
@@ -871,20 +874,23 @@
                   </ul>
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/athletics-and-recreation" class="link font-title uppercase font-bold text-xl block mt-4">
+                      <a href="https://www.messiah.edu/athletics-and-recreation/index.html" class="link font-title uppercase font-bold text-xl block mt-4">
                     Sports &amp; Recreation
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/athletics-and-recreation#sports" class="link">
+                      <a href="https://www.messiah.edu/athletics-and-recreation#start" class="link">
                     Club &amp; rec sports
                   </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/athletics-and-recreation#fitness" class="link"> Physical fitness </a>
+                      <a href="https://www.messiah.edu/athletics-and-recreation#physical-fitness" class="link"> Physical fitness </a>
                     </li>
                     <li>
                       <a href="https://www.messiah.edu/athletics-and-recreation#game-day" class="link"> Game day </a>
+                    </li>
+                    <li>
+                      <a href="https://www.messiah.edu/athletics-and-recreation#sports-camps" class="link">Sports camps</a>
                     </li>
                     <li>
                       <a href="https://www.messiah.edu/athletics-and-recreation#sports-ministry" class="link">
@@ -902,21 +908,21 @@
                 <div id="mobile-group-faith-service" class="mt-4 overflow-hidden h-[--height] transition-all duration-300" role="region" aria-labelledby="mobile-group-button-faith-service" hidden="hidden">
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/faithandservice" class="link"> Overview </a>
+                      <a href="https://www.messiah.edu/faith-and-service/index.html" class="link"> Overview </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/faithandservice#grow" class="link"> Grow your faith </a>
+                      <a href="https://www.messiah.edu/faith-and-service#grow-your-faith" class="link"> Grow your faith </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/faithandservice#service" class="link"> Service opportunities </a>
+                      <a href="https://www.messiah.edu/faith-and-service#service-opportunities" class="link"> Service opportunities </a>
                     </li>
                   </ul>
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/faithandservice#church" class="link"> Find a church </a>
+                      <a href="https://www.messiah.edu/faith-and-service#find-your-church" class="link"> Find a church </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/faithandservice#classroom" class="link"> Faith in the classroom </a>
+                      <a href="https://www.messiah.edu/faith-and-service#faith-in-the-classroom" class="link"> Faith in the classroom </a>
                     </li>
                   </ul>
                 </div>
@@ -929,19 +935,19 @@
                 <div id="mobile-group-student-life" class="mt-4 overflow-hidden h-[--height] transition-all duration-300" role="region" aria-labelledby="mobile-group-button-student-life" hidden="hidden">
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
                     <li>
-                      <a href="https://www.messiah.edu/studentlife" class="link"> Overview </a>
+                      <a href="https://www.messiah.edu/student-life/index.html" class="link"> Overview </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/student-life#student-life" class="link"> Life on campus </a>
+                      <a href="https://www.messiah.edu/student-life#start" class="link"> Life on campus </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/student-life#to-do" class="link"> Things to do </a>
+                      <a href="https://www.messiah.edu/student-life#things-to-do" class="link"> Things to do </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/student-life#home" class="link"> Your new home </a>
+                      <a href="https://www.messiah.edu/student-life#welcome-home" class="link"> Your new home </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/student-life#res-life" class="link"> Living on campus </a>
+                      <a href="https://www.messiah.edu/student-life#resident-life-dining" class="link"> Living on campus </a>
                     </li>
                   </ul>
                   <ul class="ml-4 flex flex-col gap-2 mb-2">
@@ -949,7 +955,7 @@
                       <a href="https://www.messiah.edu/student-life#faq" class="link"> Frequently asked questions </a>
                     </li>
                     <li>
-                      <a href="https://www.messiah.edu/student-life#dining" class="link"> Dining facilities </a>
+                      <a href="https://www.messiah.edu/student-life#hungry" class="link"> Dining facilities </a>
                     </li>
                     <li>
                       <a href="https://www.messiah.edu/student-life#diversity" class="link"> A diverse community </a>
@@ -966,31 +972,31 @@
                 <span class="font-title uppercase font-bold text-xl text-tertiary-300 mb-2 block"> Info For </span>
                 <ul class="flex flex-col gap-2 mb-2">
                   <li>
-                    <a href="https://www.messiah.edu/future-students" class="link"> Future Students </a>
+                    <a href="https://www.messiah.edu/future-students/index.html" class="link"> Future Students </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/current-students" class="link"> Current Students </a>
+                    <a href="https://www.messiah.edu/current-students/index.html" class="link"> Current Students </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/visitors-neighbors" class="link"> Visitors &amp; Neighbors </a>
+                    <a href="https://www.messiah.edu/visitors-neighbors/index.html" class="link"> Visitors &amp; Neighbors </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/alumni-parents" class="link"> Alumni &amp; Parents </a>
+                    <a href="https://www.messiah.edu/alumni-and-parents/index.html" class="link"> Alumni &amp; Parents </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/faculty-staff" class="link"> Faculty &amp; Staff </a>
+                    <a href="https://www.messiah.edu/faculty-staff/index.html" class="link"> Faculty &amp; Staff </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/admision" class="link"> Espa&#xF1;ol </a>
+                    <a href="https://www.messiah.edu/admisiones-de-pregrado/index.html" class="link"> Espa&#xF1;ol </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/applytoday" class="link"> Apply </a>
+                    <a href="https://www.messiah.edu/applytoday/index.html" class="link"> Apply </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/visit" class="link"> Visit </a>
+                    <a href="https://www.messiah.edu/visit/index.html" class="link"> Visit </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/homepage/1553/request_information" class="link"> Request Info </a>
+                    <a href="https://www.messiah.edu/request-info/index.html" class="link"> Request Info </a>
                   </li>
                 </ul>
               </li>
@@ -998,25 +1004,25 @@
                 <span class="font-title uppercase font-bold text-xl text-tertiary-300 mb-2 block"> Quick Links </span>
                 <ul class="quick-links-mobile flex flex-col gap-2 mb-2">
                   <li>
-                    <a href="https://www.messiah.edu/campus_directory" class="link"> Campus Directory </a>
+                    <a href="https://www.messiah.edu/offices/index.html" class="link"> Campus Directory </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/news" class="link"> News </a>
+                    <a href="https://www.messiah.edu/news/index.html" class="link"> News </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/events" class="link"> Events </a>
+                    <a href="https://www.messiah.edu/events/index.html" class="link"> Events </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/homepage/3099/contact_us" class="link"> Contact Us </a>
+                    <a href="https://www.messiah.edu/contact-us/index.html" class="link"> Contact Us </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/applytoday" class="link"> Apply </a>
+                    <a href="https://www.messiah.edu/applytoday/index.html" class="link"> Apply </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/visit" class="link"> Visit </a>
+                    <a href="https://www.messiah.edu/visit/index.html" class="link"> Visit </a>
                   </li>
                   <li>
-                    <a href="https://www.messiah.edu/homepage/1553/request_information" class="link"> Request Info </a>
+                    <a href="https://www.messiah.edu/request-info/index.html" class="link"> Request Info </a>
                   </li>
                 </ul>
               </li>
@@ -1024,16 +1030,16 @@
           </nav>
           <ul class="mobile-cta grid grid-cols-2 gap-4 mt-4">
             <li>
-              <a href="https://www.messiah.edu/applytoday" class="btn-quaternary w-full h-full">Apply</a>
+              <a href="https://www.messiah.edu/applytoday/index.html" class="btn-quaternary w-full h-full">Apply</a>
             </li>
             <li>
-              <a href="https://www.messiah.edu/visit" class="btn-quaternary w-full h-full">Visit</a>
+              <a href="https://www.messiah.edu/visit/index.html" class="btn-quaternary w-full h-full">Visit</a>
             </li>
             <li>
-              <a href="https://www.messiah.edu/request" class="btn-quaternary w-full h-full">Request Information</a>
+              <a href="https://www.messiah.edu/request-info/index.html" class="btn-quaternary w-full h-full">Request Information</a>
             </li>
             <li>
-              <a href="https://www.messiah.edu/give" class="btn-quaternary w-full h-full">Give</a>
+              <a href="https://www.messiah.edu/office-of-development/index.html" class="btn-quaternary w-full h-full">Give</a>
             </li>
           </ul>
         </div>
@@ -1071,7 +1077,7 @@
               <a href="tel:7177961800" class="link">717-766-2511</a>
               <ul class="flex gap-2 mt-4 mb-2 relative w-max">
                 <li>
-                  <a href="https://www.messiah.edu/facebook" aria-label="Follow Messiah University on Facebook" class="bg-gray-200 flex items-center justify-center w-8 h-8 rounded-full text-primary-800 hover:bg-primary-400 hover:text-white transition-colors focus-visible:bg-primary-400 focus-visible:text-white">
+                  <a href="https://www.facebook.com/MessiahUniversity" aria-label="Follow Messiah University on Facebook" class="bg-gray-200 flex items-center justify-center w-8 h-8 rounded-full text-primary-800 hover:bg-primary-400 hover:text-white transition-colors focus-visible:bg-primary-400 focus-visible:text-white">
                     <svg viewBox="0 0 32 32" class="w-5 h-5" role="img">
                       <path fill="currentColor" d="M19 6h5v-6h-5c-3.86 0-7 3.14-7 7v3h-4v6h4v16h6v-16h5l1-6h-6v-3c0-0.542 0.458-1 1-1z">
                       </path>
@@ -1079,7 +1085,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/twitter" aria-label="Follow Messiah University on X" class="bg-gray-200 flex items-center justify-center w-8 h-8 rounded-full text-primary-800 hover:bg-primary-400 hover:text-white transition-colors focus-visible:bg-primary-400 focus-visible:text-white">
+                  <a href="http://twitter.com/messiah_univ" aria-label="Follow Messiah University on X" class="bg-gray-200 flex items-center justify-center w-8 h-8 rounded-full text-primary-800 hover:bg-primary-400 hover:text-white transition-colors focus-visible:bg-primary-400 focus-visible:text-white">
                     <svg viewBox="0 0 32 32" class="w-5 h-5" role="img">
                       <path fill="currentColor" d="M24.325 3h4.411l-9.636 11.013 11.336 14.987h-8.876l-6.952-9.089-7.955 9.089h-4.413l10.307-11.78-10.875-14.22h9.101l6.284 8.308zM22.777 26.36h2.444l-15.776-20.859h-2.623z">
                       </path>
@@ -1095,7 +1101,7 @@
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/youtube" aria-label="Follow Messiah University on YouTube" class="bg-gray-200 flex items-center justify-center w-8 h-8 rounded-full text-primary-800 hover:bg-primary-400 hover:text-white transition-colors focus-visible:bg-primary-400 focus-visible:text-white">
+                  <a href="https://www.youtube.com/messiahuniversity" aria-label="Follow Messiah University on YouTube" class="bg-gray-200 flex items-center justify-center w-8 h-8 rounded-full text-primary-800 hover:bg-primary-400 hover:text-white transition-colors focus-visible:bg-primary-400 focus-visible:text-white">
                     <svg viewBox="0 0 32 32" class="w-5 h-5" role="img">
                       <path fill="currentColor" d="M31.327 8.273c-0.386-1.353-1.431-2.398-2.756-2.777l-0.028-0.007c-2.493-0.668-12.528-0.668-12.528-0.668s-10.009-0.013-12.528 0.668c-1.353 0.386-2.398 1.431-2.777 2.756l-0.007 0.028c-0.443 2.281-0.696 4.903-0.696 7.585 0 0.054 0 0.109 0 0.163l-0-0.008c-0 0.037-0 0.082-0 0.126 0 2.682 0.253 5.304 0.737 7.845l-0.041-0.26c0.386 1.353 1.431 2.398 2.756 2.777l0.028 0.007c2.491 0.669 12.528 0.669 12.528 0.669s10.008 0 12.528-0.669c1.353-0.386 2.398-1.431 2.777-2.756l0.007-0.028c0.425-2.233 0.668-4.803 0.668-7.429 0-0.099-0-0.198-0.001-0.297l0 0.015c0.001-0.092 0.001-0.201 0.001-0.31 0-2.626-0.243-5.196-0.708-7.687l0.040 0.258zM12.812 20.801v-9.591l8.352 4.803z">
                       </path>
@@ -1108,28 +1114,28 @@
                   </a>
                 </li>
               </ul>
-              <a href="https://www.messiah.edu/info/20117/social_media" class="link text-sm">View all Social Media</a>
+              <a href="https://www.messiah.edu/gn-about/news-and-events/social-media.html" class="link text-sm">View all Social Media</a>
             </section>
             <nav>
               <h3 class="h4 text-white mb-2">Admissions</h3>
               <ul class="text-sm">
                 <li>
-                  <a href="https://www.messiah.edu/info/21083/undergraduate_admissions" class="link">Undergraduate</a>
+                  <a href="https://www.messiah.edu/undergraduate-admissions/index.html" class="link">Undergraduate</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/21084/graduate_admissions" class="link">Graduate</a>
+                  <a href="https://www.messiah.edu/grad-admissions/index.html" class="link">Graduate</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/21085/financial_aid" class="link">Financial aid</a>
+                  <a href="https://www.messiah.edu/fin-aid/index.html" class="link">Financial aid</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/21343/visit_campus" class="link">Visit</a>
+                  <a href="https://www.messiah.edu/visit/index.html" class="link">Visit</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/homepage/1553/request_information" class="link">Request information</a>
+                  <a href="https://www.messiah.edu/request-info/index.html" class="link">Request information</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/homepage/3157/apply_to_messiah_college" class="link">Apply</a>
+                  <a href="https://www.messiah.edu/applytoday/index.html" class="link">Apply</a>
                 </li>
               </ul>
             </nav>
@@ -1137,25 +1143,22 @@
               <h3 class="h4 text-white mb-2">Academics</h3>
               <ul class="text-sm">
                 <li>
-                  <a href="https://www.messiah.edu/majors-minors-programs?sm=undergraduate" class="link">Undergrad programs</a>
+                  <a href="https://www.messiah.edu/majors-minors-programs/index.html" class="link">Undergrad programs</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/gradprograms" class="link">Grad programs</a>
+                  <a href="https://www.messiah.edu/academics/graduate/index.html" class="link">Grad programs</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/20029/schools_and_departments" class="link">Schools and departments</a>
+                  <a href="https://www.messiah.edu/schools-and-departments/index.html" class="link">Schools and departments</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/20030/academic_opportunities" class="link">Academic opportunities</a>
+                  <a href="https://www.messiah.edu/academic-resources/index.html" class="link">Academic resources</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/20032/academic_resources" class="link">Academic resources</a>
+                  <a href="https://www.messiah.edu/academic-support/index.html" class="link">Academic support</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/20033/academic_support" class="link">Academic support</a>
-                </li>
-                <li>
-                  <a href="https://www.messiah.edu/info/20031/accelerated_options" class="link">Accelerated options</a>
+                  <a href="https://www.messiah.edu/accelerated/index.html" class="link">Accelerated options</a>
                 </li>
               </ul>
             </nav>
@@ -1163,31 +1166,31 @@
               <h3 class="h4 text-white mb-2">Quick Links</h3>
               <ul class="text-sm">
                 <li>
-                  <a href="https://www.messiah.edu/contact" class="link">Contact us</a>
+                  <a href="https://www.messiah.edu/contact-us/index.html" class="link">Contact us</a>
                 </li>
                 <li>
                   <a href="https://jobs.messiah.edu/" class="link">Employment opportunities</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/21164/library" class="link">Library</a>
+                  <a href="https://www.messiah.edu/library/index.html" class="link">Library</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/20015/news_and_events" class="link">News and events</a>
+                  <a href="https://www.messiah.edu/news/index.html" class="link">News and events</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/campus_directory" class="link">Campus offices</a>
+                  <a href="https://www.messiah.edu/offices/index.html" class="link">Campus offices</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/20014/our_campus/13/directions" class="link">Directions</a>
+                  <a href="https://www.messiah.edu/undergraduate-admissions/pages/directions1/directions.html" class="link">Directions</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/map" class="link">Campus map</a>
+                  <a href="https://www.messiah.edu/campus-map" class="link">Campus map</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/info/20075/policies_and_guidelines/119/privacy_policy" class="link">Website privacy</a>
+                  <a href="https://www.messiah.edu/web-services/pages/messiah-university-web-privacy-policy" class="link">Website privacy</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/homepage/3592/non-discrimination_policy" class="link">Non-discrimination policy</a>
+                  <a href="https://www.messiah.edu/non-discrimination-policy/index.html" class="link">Non-discrimination policy</a>
                 </li>
               </ul>
             </nav>
@@ -1202,16 +1205,16 @@
             <nav aria-label="footer navigation" class="pt-4 pb-12">
               <ul class="text-white-300 uppercase flex flex-wrap justify-center text-sm">
                 <li class="after:mx-4 after:content-['|']">
-                  <a href="https://www.messiah.edu/accessibility" class="link">Accessibility</a>
+                  <a href="https://www.messiah.edu/web-services/website-accessibility-statement/index" class="link">Accessibility</a>
                 </li>
                 <li class="after:mx-4 after:content-['|']">
-                  <a href="https://www.messiah.edu/web-help" class="link">Contact the webmaster</a>
+                  <a href="https://www.messiah.edu/web-services/web-help-and-support/submit-a-web-help-ticket" class="link">Contact the webmaster</a>
                 </li>
                 <li class="after:mx-4 after:content-['|']">
-                  <a href="https://www.messiah.edu/sci" class="link">Student consumer information</a>
+                  <a href="https://www.messiah.edu/institutional-research/student-consumer-information/index.html" class="link">Student consumer information</a>
                 </li>
                 <li>
-                  <a href="https://www.messiah.edu/terms" class="link">2024 Messiah University</a>
+                  <a href="https://www.messiah.edu/terms-and-conditions/index.html" class="link">2024 Messiah University</a>
                 </li>
               </ul>
             </nav>
