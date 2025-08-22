@@ -22,8 +22,9 @@
         </script>
         <link href=" https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css " rel="stylesheet" />
         <!-- End Lite YouTube Embed -->
-        <link rel="stylesheet" href="https://www.messiah.edu/sandbox/slate/assets/styles.css" />
-        <script type="module" src="https://www.messiah.edu/sandbox/slate/assets/slate.js">
+        <link rel="stylesheet" href="https://www.messiah.edu/assets/files/slate/assets/slate-custom.css" />
+				<link rel="stylesheet" href="https://www.messiah.edu/assets/files/slate/assets/styles.css" />
+        <script type="module" src="https://www.messiah.edu/assets/files/slate/assets/slate.js">
         </script>
         <xsl:apply-templates select="xhtml:html/xhtml:head/node()" />
       </head>
@@ -1054,7 +1055,7 @@
           <div class="bg-white px-6 py-4">
             <div class="flex flex-col lg:flex-row">
               <!-- Either render a default sidebar with the links or render the slot -->
-              <div class="space-y-4 md:px-10 md:py-8">
+              <div class="space-y-4 md:px-10 md:py-8" id="slate-content">
                 <div class="container container-slate">
                   <xsl:apply-templates select="xhtml:html/xhtml:body/node()" />
                   <div id="slate">
