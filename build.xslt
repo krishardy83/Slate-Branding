@@ -23,7 +23,7 @@
         <link href=" https://cdn.jsdelivr.net/npm/lite-youtube-embed@0.3.3/src/lite-yt-embed.min.css " rel="stylesheet" />
         <!-- End Lite YouTube Embed -->
         <link rel="stylesheet" href="https://www.messiah.edu/assets/files/slate/assets/slate-custom.css" />
-				<link rel="stylesheet" href="https://www.messiah.edu/assets/files/slate/assets/styles.css" />
+        <link rel="stylesheet" href="https://www.messiah.edu/assets/files/slate/assets/styles.css" />
         <script type="module" src="https://www.messiah.edu/assets/files/slate/assets/slate.js">
         </script>
         <xsl:apply-templates select="xhtml:html/xhtml:head/node()" />
@@ -38,7 +38,7 @@
         <!-- End Google Tag Manager (noscript) -->
         <a href="#content" class="btn-tertiary fixed left-1/2 top-0 -translate-x-1/2 z-50 -translate-y-full focus:translate-y-0">Skip to content</a>
         <div data-menu="data-menu" class="sticky -top-px before:absolute before:top-0 before:h-2 lg:before:h-4 before:w-full before:bg-gradient-to-r before:from-primary-600 lg:data-[scrolling='true']:bg-white before:to-secondary-600 pt-6 lg:pt-4 pb-2 lg:pb-6 z-30 group border-b border-transparent lg:data-[scrolling='true']:border-gray-300 lg:data-[compress='true']:-translate-y-12 transition-all">
-            <header class="mx-auto max-w-6xl px-4">
+          <header class="mx-auto max-w-6xl px-4">
             <nav class="flex items-end flex-wrap" data-analytics="navigation">
               <a href="/" aria-label="home page" class="slate-hidden lg:block mr-auto mt-4 group-data-[compress='true']:opacity-0 transition-opacity text-primary-800">
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 227 61.29" xml:space="preserve" width="220" height="60" role="img" class="max-w-40 lg:max-w-full" style="color: #273d5e;">
@@ -462,8 +462,8 @@
                             <a href="https://www.messiah.edu/athletics-and-recreation#game-day" class="link"> Game day </a>
                           </li>
                           <li>
-                              <a href="https://www.messiah.edu/athletics-and-recreation#sports-camps" class="link">Sports camps</a>
-                          </li>                          
+                            <a href="https://www.messiah.edu/athletics-and-recreation#sports-camps" class="link">Sports camps</a>
+                          </li>
                           <li>
                             <a href="https://www.messiah.edu/athletics-and-recreation#sports-ministry" class="link">
                           Sports ministry
@@ -1046,16 +1046,28 @@
         </div>
         <main id="content" data-analytics="web-services/accordion-example">
           <header class="bg-gray-100">
-            <h1 class="px-6 max-w-6xl mx-auto font-title pb-6 pt-8 uppercase tracking-widest text-3xl md:text-4xl text-primary-800 leading-none">
-          Admissions Portal
-        </h1>
+            <script>
+					document.addEventListener("DOMContentLoaded", function() {
+						var h1 = document.querySelector("h1");
+						var target = document.getElementById("title_goes_here");
+
+						if (h1) {
+							if (target) {
+								// Move the H1 into the target container
+								target.appendChild(h1);
+							}
+						}
+					});
+					</script>
+            <div id="title_goes_here" class="px-6 max-w-6xl mx-auto font-title pb-6 pt-8 uppercase tracking-widest text-3xl md:text-4xl text-primary-800 leading-none">
+            </div>
           </header>
         </main>
         <div class="relative mx-auto max-w-6xl">
           <div class="bg-white px-6 py-4">
             <div class="flex flex-col lg:flex-row">
               <!-- Either render a default sidebar with the links or render the slot -->
-              <div class="space-y-4 md:px-10 md:py-8" id="slate-content">
+              <div class="space-y-4 md:px-10 pb-12" id="slate-content">
                 <div class="container container-slate">
                   <xsl:apply-templates select="xhtml:html/xhtml:body/node()" />
                   <div id="slate">
