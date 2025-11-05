@@ -7,7 +7,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="author" content="Messiah University" />
-        <meta name="description" content="Example of an accordion widget" />
+        <meta name="description" content="Admissions Portal" />
         <link rel="stylesheet" href="https://use.typekit.net/pix7cvk.css" />
         <!-- Fancyapps -->
         <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js">
