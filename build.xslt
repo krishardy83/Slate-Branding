@@ -26,6 +26,8 @@
         <link rel="stylesheet" href="https://www.messiah.edu/assets/files/slate/assets/styles.css" />
         <script type="module" src="https://www.messiah.edu/assets/files/slate/assets/slate.js">
         </script>
+		<script type="module" src="https://www.messiah.edu/assets/files/slate/assets/custom.js">
+        </script>
         <xsl:apply-templates select="xhtml:html/xhtml:head/node()" />
       </head>
       <body class="font-sans text-gray-700">
